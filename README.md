@@ -1,8 +1,14 @@
-# React + Vite
+# CODAR Pizzaria
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto realizado na mentoria da Programar Com Você
 
-Currently, two official plugins are available:
+# Stacks Utilizadas
+- React.js
+- Styled Components
+- React Rounter DOM
+- React Toastify
+- CSS Escrito no padrão BEM CSS
+- Local Storage para o login e registro
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#
+### Deploy: https://6581d9f17b7a6f424e9406cd--brilliant-banoffee-fcfe7d.netlify.app
