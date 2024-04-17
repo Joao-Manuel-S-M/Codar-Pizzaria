@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import * as S from './style'
 import apple from '../../assets/images/applestoreIcon.svg'
-import googlePlay from '../../assets/images/googlePlayIcon.svg'
+import googlePlay from '../../assets/images/googleplayIcon.svg'
 import { Link, useNavigate } from 'react-router-dom'
 import Register from '../Register/Register'
 import { ToastContainer, toast } from 'react-toastify';

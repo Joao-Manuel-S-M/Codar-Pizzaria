@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import * as S from "./style";
 import apple from "../../assets/images/applestoreIcon.svg";
-import googlePlay from "../../assets/images/googlePlayIcon.svg";
+// import googlePlay from "../../assets/images/googlePlayIcon.svg";
 import { Link, Navigate, useNavigate} from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -73,12 +73,13 @@ const Register = () => {
               <img src={apple} alt="Apple icon" className="card__icon" />
             </a>
             <a href="">
-              <img
+             <img
                 src={googlePlay}
                 alt="Google Play icon"
                 className="card__icon"
               />
             </a>
+        
           </div>
         </div>
 
